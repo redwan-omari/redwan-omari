@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Bonjour, je suis Redwan Omari
 
-<!--
-**redwan-omari/redwan-omari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Étudiant en Master 2 Intelligence Artificielle & Facteur Humain  
+🤖 Passionné par le Machine Learning et le Deep Learning  
+📍 France  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 À propos de moi
+
+Je suis étudiant en Master spécialisé en **Machine Learning, Deep Learning, NLP et Vision par ordinateur**.  
+Je recherche actuellement un **stage en Machine Learning** afin d’appliquer mes compétences sur des problématiques réelles et contribuer au développement de solutions d’IA concrètes.
+
+---
+
+## 🧠 Compétences techniques
+
+- **Machine Learning & Deep Learning** : Scikit-learn, PyTorch, TensorFlow, Keras, CNN, RNN, Transformers, GANs  
+- **Traitement du langage naturel (NLP)** : SpaCy, NLTK, BERT, Hugging Face Transformers  
+- **Vision par ordinateur** : OpenCV, YOLO  
+- **Programmation** : Python, Java, C/C++, SQL  
+- **Optimisation** : CPLEX  
+- **Bases de données** : PostgreSQL, MySQL, MongoDB  
+- **Outils** : Git, Docker, Jupyter Notebook, Linux, FastAPI
+
+---
+
+- 💼 LinkedIn: https://www.linkedin.com/in/redwan-omari/
+- 📧 Email: redwan.oma20@gmail.com
+
+---
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true)
