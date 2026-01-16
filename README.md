@@ -27,7 +27,3 @@ Je recherche actuellement un **stage en Machine Learning** afin d’appliquer me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/redwan-omari/
 - 📧 Email: redwan.oma20@gmail.com
-
----
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true)
